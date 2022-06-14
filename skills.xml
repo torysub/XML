@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<skills>
+  <HTTP>client-server architecture</HTTP>
+  <HTTP>HTTP methods of requests to the server</HTTP>
+  <HTTP>HTTP server response codes</HTTP>
+  <HTTP>HTTP request and Response structures</HTTP>
+  <database>SQL</database>
+  <database>Redis</database>
+  <database>Postgres</database>
+  <API>Postman</API>
+  <API>JS</API>
+  <API>API autotests</API>
+  <sniffing>Charles</sniffing>
+  <sniffing>Fidler</sniffing>
+  <DevTools>Google Chrome</DevTools>
+  <DevTools>FireFox</DevTools>
+  <methodology>SCRUM</methodology>
+  <basic_testing_theory>testing</basic_testing_theory>
+  <basic_testing_theory>bug reports</basic_testing_theory>
+  <basic_testing_theory>documentation</basic_testing_theory>
+  <basic_testing_theory>SDLC</basic_testing_theory>
+  <basic_testing_theory>STLC</basic_testing_theory>
+  <data_exchange_format>JSON</data_exchange_format>
+  <data_exchange_format>XML</data_exchange_format>
+  <mobile_testing>iOS</mobile_testing>
+  <mobile_testing>Android</mobile_testing>
+  <building_applications>Android Studio</building_applications>
+  <building_applications>XCode</building_applications>
+  <working_in_the_terminal>GitBush</working_in_the_terminal>
+  <working_in_the_terminal>GitHub</working_in_the_terminal>
+  <load_testing>Jmeter</load_testing>
+</skills>

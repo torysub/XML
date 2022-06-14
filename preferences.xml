@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <favorite_movie>Interstellar</favorite_movie>
+  <favorite_TV_series>Friends</favorite_TV_series>
+  <favorite_food>pasta</favorite_food>
+  <favorite_food>potato mash</favorite_food>
+  <favorite_food>shish kebab</favorite_food>
+  <favorite_food>salad</favorite_food>
+  <favorite_time_year>summer</favorite_time_year>
+  <country>Australia</country>
+</root>
