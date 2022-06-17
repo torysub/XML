@@ -3,6 +3,8 @@
   <Bug-ID>1</Bug-ID>
   <Title>Поле ввода &#x27;Введите номер телефона&#x27; не позволяет ввести цифры после нажатия на кнопу &#x27;Войти по номеру телефона&#x27;</Title>
   <Project>Сайт магазина &#x27;Malina&#x27;</Project>
+  <Severity>Major</Severity>
+  <Priority>Medium</Priority>
   <STR>1. Открыть страницу входа</STR>
   <STR>2. Нажать на кнопку &#x27;Войти по номеру телефона&#x27;</STR>
   <STR>3. Начать вводить цифры  от 0 до 9 в поле &#x27;Введите номер телефона&#x27;</STR>
@@ -12,8 +14,4 @@
     <OS>Windows 10 PRO 64-bit operating system, x64 processor</OS>
     <Browser>Google Chrome Version 102.0.5005.63 (Official build), (64 bit)</Browser>
   </Environment>
-  <Severity>Major</Severity>
-  <Priority>Medium</Priority>
-  <Status>New</Status>
-  <Author>Виктория Субботина</Author>
 </root>
